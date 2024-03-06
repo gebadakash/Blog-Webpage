@@ -1,6 +1,7 @@
 <hr>
-<b>Coding Blog Webpage<b/>
+<h1>Coding Blog Webpage<h1/>
 
+<hr>
 The Coding Blog Webpage is a platform designed for coding enthusiasts and learners to explore various programming languages, technologies, and related topics. Developed using Bootstrap, this webpage offers an intuitive and responsive user interface for easy navigation and accessibility across different devices.
 
 
